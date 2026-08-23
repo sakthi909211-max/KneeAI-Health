@@ -1,0 +1,7 @@
+{
+  "name": "KneeAI Health",
+  "description": "Precision Knee Care, Powered by Clinical AI. Advanced monitoring, personalized rehabilitation protocols, language translation, and wellness guides for knee recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
